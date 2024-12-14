@@ -24,7 +24,7 @@ const Navbar = () => (
       color="white"
       sx={{ flexGrow: 1, textAlign: "center" }}
     >
-      Hello, I am Shambhavie
+      Hello, I am Shambhaviii
     </Typography>
     <SearchBar />
   </Stack>
