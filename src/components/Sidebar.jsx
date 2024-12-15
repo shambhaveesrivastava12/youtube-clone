@@ -24,7 +24,7 @@ const Categories = ({ selectedCategory, setSelectedCategory }) => (
       >
         <span
           style={{
-            color: category.name === selectedCategory ? "white" : "red",
+            color: category.name === selectedCategory ? "white" : "green",
             marginRight: "15px",
           }}
         >
